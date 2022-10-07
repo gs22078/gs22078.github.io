@@ -1077,3 +1077,7 @@ body {
   counter-reset: katexEqnNo mmlEqnNo;
 }
 
+.katex .hangul_fallback {
+  font-size: 90%;
+  font-family: 'Noto Sans KR';
+}
